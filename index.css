@@ -1,0 +1,11 @@
+h1 {
+    font-size: 30px;
+    color: rgb(4, 59, 98);
+}
+p {
+    font-family: sans-serif;
+}
+
+.output {
+    color: darkred;
+}
